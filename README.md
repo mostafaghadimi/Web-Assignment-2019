@@ -8,7 +8,10 @@
   4. Animation and Transition (25 pt + extra 10pt)
 
 ## Homework 2 
-    contains questions about JavaScript. 
+  contains questions about JavaScript. 
+  1. Closure (30 pt)
+  2. Storage (30 pt)
+  3. Game (40 pt + 10pt)
 
 ## Homework 3 
     contains questions about Python. 
